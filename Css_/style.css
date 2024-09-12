@@ -8,7 +8,7 @@ body{
     margin: 0;
     padding: 0;    
 }
-#Introduccion{
+.introduccion{
     background-color: rgba(119, 139, 132, 0.505);
     justify-content: center; 
     text-align: center;    
@@ -37,11 +37,11 @@ td Ul{
     height: 20px;
     text-align: justify;
 }
-.Contenido{
+.contenido{
     margin-bottom: 60px;
     background-color: rgb(239, 239, 239);
 }
-.Contenido h2{
+.contenido h2{
     margin: 60px;
 }
 #tr1 td {
@@ -73,17 +73,17 @@ td Ul{
     padding-right: 200px;
     line-height: 25px;
 }
-.pie_pagina td ul{
+.piepagina td ul{
     line-height: normal;
     margin: 80px;
     margin-left: 600px;
     list-style: none;
 }
-.pie_pagina{
+.piepagina{
     margin: 50px;
     
 }
-.pie_pagina img{
+.piepagina img{
     width: 70px;
     height: 60px;
 }
