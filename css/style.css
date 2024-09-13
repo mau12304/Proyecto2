@@ -9,7 +9,7 @@ body{
     padding: 0;    
 }
 .introduccion{
-    background-color: rgba(119, 139, 132, 0.505);
+    background-color: rgb(146, 183, 155);
     justify-content: center; 
     text-align: center;    
     margin: 0;
@@ -23,7 +23,7 @@ h1{
     text-align: center;
 }
 .foros{
-    background-color: white;
+    background-color: rgb(147, 199, 159);
     padding: 15px;
 }
 td ul{
